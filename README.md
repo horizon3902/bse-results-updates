@@ -2,7 +2,7 @@
 Notifies when BSE results page is updated.
 
 ## Operation
-A pop up will appear when the result page is updated.
+Run bsemain.py, a pop up will appear when the result page is updated.
 
 ## Roadmap
 Creating an executable file and removing client side dependencies
