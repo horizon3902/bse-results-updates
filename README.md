@@ -1,5 +1,5 @@
 # BSE Company Results Update Tracker
-Notifies when BSE results page is updated.
+Notifies when the Bombay Stock Exchange equity results page is updated.
 
 ## Operation
 Run bsemain.py, a pop up will appear when the result page is updated.
