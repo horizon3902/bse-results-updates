@@ -16,6 +16,17 @@ Creating an executable file and removing client side dependencies
 ### Author
 Kshitij Agarkar, IIIT Nagpur 2020
 
-#### Get In Touch With Me!
-Instagram -> [Kshitij Agarkar](https://www.instagram.com/kshitij_agarkar/ "Instagram Account")
-E-Mail -> <bt20ece070@iiitn.ac.in>
+### Kshitij Agarkar, IIITN, 2021
+
+### Contact: -	
+
+<p align='center'>
+  <a href="mailto:bt20cse209@iiitn.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/kshitij_agarkar">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/horizon3902">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
