@@ -16,8 +16,6 @@ Creating an executable file and removing client side dependencies
 ### Author
 Kshitij Agarkar, IIIT Nagpur 2020
 
-### Kshitij Agarkar, IIITN, 2021
-
 ### Contact: -	
 
 <p align='center'>
